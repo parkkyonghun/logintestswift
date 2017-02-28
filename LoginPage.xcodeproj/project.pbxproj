@@ -99,6 +99,7 @@
 				TargetAttributes = {
 					88B9C7D41E65168000F00C07 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 9H2V9A8BW3;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -265,7 +266,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer: parkkyonghun0510@gmail.com (B697TNXSLS)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 9H2V9A8BW3;
 				INFOPLIST_FILE = LoginPage/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.kosign.LoginPage;
@@ -280,7 +281,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer: parkkyonghun0510@gmail.com (B697TNXSLS)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 9H2V9A8BW3;
 				INFOPLIST_FILE = LoginPage/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.kosign.LoginPage;
@@ -308,6 +309,7 @@
 				88B9C7E91E65168200F00C07 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
